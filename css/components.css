@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+.title13{
+  font-size: 13px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+  color: #203951;
+}
+
+.title18{
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+  color: #203951;
+}
+
+.title23{
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+  color: #203951;
+}
+
+.title24{
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+}
+
+.title30{
+  font-size: 30px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+  color: #203951;
+}
+
+.title32{
+  font-size: 30px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+  color: #203951;
+}
+
+.title40{
+  font-size: 30px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+  color: #203951;
+}
+
+.subtitle13{
+  font-size: 13px;
+  font-family: "Montserrat", sans-serif;
+  color: #858E97;
+}
+
+.text{
+  font-size: 13px;
+  line-height: 150%;
+  color: #0000;
+  font-family: "Inter", sans-serif;
+}
+
+
+.button{
+  padding: 15px 30px;
+  background: #FEE47D;
+  background: linear-gradient(180deg,rgba(254, 228, 125, 1) 37%, rgba(255, 211, 34, 1) 100%);
+  border-radius: 10px;
+  transition: 300ms;
+}
+
+.button a{
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+}
+
+.button:hover{
+  transform: scale(1.05);
+}
+
+.container{
+  max-width: 100%;
+  padding: 0px 20px;
+}
+
+.container__contact{
+  max-width: 100%;
+  padding: 0px 20px;
+}
+
+.container__footer{
+  max-width: 100%;
+  padding: 0px 20px;
+}
+
+.kvadrat{
+  width: 10px;
+  height: 10px;
+  background-color: #203951;
+  margin-right: 7px;
+}
+
+@media (min-width:768px){
+  .container{
+    padding: 0px 40px;
+  }
+  .container__footer{
+    padding: 0px 40px;
+  }
+}
+
+@media (min-width:1000px){
+  .container{
+    max-width: 900px;
+    margin: 0px auto;
+    padding: 0px;
+  }
+  .container__footer{
+    max-width: 900px;
+    margin: 0px auto;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+  }
+}
+
+@media (min-width:1200px){
+  .container{
+    max-width: 1000px;
+    margin: 0px auto;
+  }
+}
+
+@media (min-width:1400px){
+  .container{
+    max-width: 1100px;
+    margin: 0px auto;
+  }
+}
+
+@media (min-width:1600px){
+  .container{
+    max-width: 1200px;
+    margin: 0px auto;
+  }
+}
+
+@media (min-width:1800px){
+  .container{
+    max-width: 1300px;
+    margin: 0px auto;
+  }
+}
+
+body.lock {
+  overflow: hidden;
+  
+}
+
+.why-border{
+    border-right: none;
+}
+
+.why-border-last{
+  border-bottom: 2px solid #FFD322;;
+}
+
+@media (min-width:550px){
+  .why-border{
+    border-right: 2px solid #FFD322;
+}
+}
+
+
+.contact__column__telefon__title{
+  font-size: 32px;
+}
+
+
+.email{
+  margin-top: 40px;
+}
