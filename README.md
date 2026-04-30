@@ -17,7 +17,7 @@ The project focuses on clean layout, modern design, and adaptive interface for d
 - JavaScript (ES6)  
 
 ## Live Demo
-https://savitur-stav.cz/
+https://ivan-lyakh.github.io/savitur-stav/
 
 ---
 
@@ -40,4 +40,4 @@ Savitur — это адаптивный лендинг, созданный с и
 - JavaScript (ES6)  
 
 ## Демо
-https://savitur-stav.cz/
+https://ivan-lyakh.github.io/savitur-stav/
